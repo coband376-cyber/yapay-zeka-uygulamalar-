@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — DİYAR COBAN 2023232033 </p>
+    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — DİYAR COBAN 2023232033 05308841521 </p>
 </div>
 """, unsafe_allow_html=True)
 
