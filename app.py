@@ -49,7 +49,7 @@ st.markdown(f"""
     .result-box .value {{ font-size: 2.3rem; font-weight: 700; }}
     .result-box .label {{ font-size: 0.95rem; opacity: 0.85; }}
     .warn-box {{
-        background-color: #FDEDEC;
+        background-color: #FFA500;
         border: 1.5px solid {RED};
         color: {RED};
         padding: 0.9rem 1.1rem;
@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — DİYAR COBAN 2023232033 </p>
 </div>
 """, unsafe_allow_html=True)
 
